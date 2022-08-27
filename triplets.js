@@ -16,3 +16,10 @@ function compareTriplets(a, b) {
 
 }
 compareTriplets([1, 2, 3], [2, 3, 4])
+
+
+function add(num1, num2) {
+
+    let total = num1 + num2;
+    return total;
+};
